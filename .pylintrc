@@ -10,6 +10,7 @@ disable=
       C0304, # Final newline missing
       W0012, # Unknown option value
       C0305, # Trailing newlines
+      E1101, # No-member
 
 
 # Analyse import fallback blocks. This can be used to support both Python 2 and
